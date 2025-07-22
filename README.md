@@ -65,6 +65,51 @@ Additionally, I built an **interactive Streamlit app** that allows users to inpu
 - Try other models such as **Ridge** or **Lasso** regression for comparison.
 - Implement a **cross-validation** to improve model generalization.
 - Use **interactive visualizations** to present results dynamically.
+- 🔧 1. Experimenting with Advanced Models:
+
+Exploring Ridge and Lasso Regression for better regularization.
+
+Trying tree-based models like Random Forest and XGBoost to capture non-linear relationships.
+
+Testing Neural Networks for even more complex predictions.
+
+🔧 2. Hyperparameter Tuning & Cross-Validation:
+
+Implementing GridSearchCV and RandomizedSearchCV for hyperparameter optimization.
+
+Using K-fold Cross Validation for more reliable model performance estimates.
+
+🔧 3. Interactive Visualizations:
+
+Adding dynamic, interactive visualizations in Streamlit to better understand how TV, Radio, and Newspaper budgets impact sales.
+
+Integrating Plotly for scatter plots, regression lines, and bar charts for feature importance.
+
+🔧 4. Real-Time Data Integration:
+
+Connecting to live advertising data sources (Google Ads, Facebook Ads API) to provide real-time predictions.
+
+Creating a pipeline to automatically pull in new data and update predictions accordingly.
+
+🔧 5. Deploying the Model:
+
+Deploying the model with Streamlit Sharing, Heroku, or AWS for accessible web-based prediction services.
+
+Building a robust API to interact with the model from other applications or platforms.
+
+🔧 6. Adding More Predictive Features:
+
+Including additional features like seasonality, geographical region, and past sales data to improve the model’s accuracy.
+
+🔧 7. Model Explainability:
+
+Adding tools like SHAP or LIME to make model predictions more interpretable and user-friendly.
+
+🔧 8. User Authentication and Reports:
+
+Enabling user authentication to provide personalized predictions for different users.
+
+Integrating automated email reports with prediction summaries for businesses and stakeholders.
 
 ## License
 
